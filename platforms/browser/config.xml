@@ -9,6 +9,5 @@
     </author>
     <content src="index.html" />
     <gap:plugin name="com.phonegap.plugins.pushplugin"/>
-
     <access origin="*" />
 </widget>
