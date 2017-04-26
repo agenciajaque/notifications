@@ -1,6 +1,5 @@
  var app = {
      // Application Constructor
-     alert('lo esta caganfo');
      initialize: function() {
          this.bindEvents();
      },
